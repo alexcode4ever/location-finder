@@ -14,7 +14,7 @@
     .
   </p>
 </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57ceb6c3-36b9-4e86-b9db-bcc5bb065e4f/deploy-status)](https://app.netlify.com/sites/chipper-kitten-b83c2a/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/57ceb6c3-36b9-4e86-b9db-bcc5bb065e4f/deploy-status)](https://app.netlify.com/sites/chipper-kitten-b83c2a/deploys)
 
 ## About The Project
 
