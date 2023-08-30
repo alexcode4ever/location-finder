@@ -84,8 +84,8 @@ function handleSearch(value: string) {
     :show-user-location="showUserLocation"
   />
   <TimeAlertBar />
-  <div class="flex py-2">
-    <DataTable />
+  <div class="py-2 block sm:flex">
+    <DataTable class="w-full sm:w-96" />
     <div id="map" class="flex-auto w-full min-h-[550px]"></div>
   </div>
 </template>
