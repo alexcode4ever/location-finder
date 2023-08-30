@@ -10,10 +10,11 @@
     A web application allows client to search a location and show the marker on Google Map.
     <br/>
     <br/>
-    <a href="https://github.com/alexcode4ever/location-finder">View Demo</a>
+    <a href="https://chipper-kitten-b83c2a.netlify.app/">View Demo</a>
     .
   </p>
 </p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57ceb6c3-36b9-4e86-b9db-bcc5bb065e4f/deploy-status)](https://app.netlify.com/sites/chipper-kitten-b83c2a/deploys)
 
 ## About The Project
 
@@ -54,16 +55,6 @@ npm run dev
 ## Roadmap
 
 See the [open issues](https://github.com/alexcode4ever/location-finder/issues) for a list of proposed features (and known issues).
-
-## Contributing
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Authors
 
