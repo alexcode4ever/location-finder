@@ -11,10 +11,12 @@
     <br/>
     <br/>
     <a href="https://chipper-kitten-b83c2a.netlify.app/">View Demo</a>
-    .
+    
   </p>
 </p>
-![Netlify Status](https://api.netlify.com/api/v1/badges/57ceb6c3-36b9-4e86-b9db-bcc5bb065e4f/deploy-status)](https://app.netlify.com/sites/chipper-kitten-b83c2a/deploys)
+
+![Netlify Status](https://api.netlify.com/api/v1/badges/57ceb6c3-36b9-4e86-b9db-bcc5bb065e4f/deploy-status)
+![Contributors](https://img.shields.io/github/contributors/alexcode4ever/location-finder?color=dark-green) ![Issues](https://img.shields.io/github/issues/alexcode4ever/location-finder)
 
 ## About The Project
 
@@ -25,7 +27,9 @@ A demo project for a job application which demonstrate a web application to allo
 ## Built With
 
 -Vue.js as javascript framework
+
 -TailwindCSS and Vuetify as UI framework
+
 -Pinia as state management
 
 ## Getting Started
